@@ -300,3 +300,4 @@ data = [
         'country': 'United States'
     }
 ]
+print(len(data))
