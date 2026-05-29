@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="uv (Day-16-Start)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="uv (Day-16-Start)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.14 (100 Days of Code - The Complete Python Pro Bootcamp)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (100 Days of Code - The Complete Python Pro Bootcamp)" project-jdk-type="Python SDK" />
+>>>>>>> e20c6ee82963646d3f8f9d47e2545f017ad01bcf
 </project>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Day-16-Start.iml" filepath="$PROJECT_DIR$/.idea/Day-16-Start.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" />
+>>>>>>> e20c6ee82963646d3f8f9d47e2545f017ad01bcf
     </modules>
   </component>
 </project>
